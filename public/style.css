@@ -1,0 +1,25 @@
+.circle {
+	border-radius: 100%;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.small {
+	width: 100px;
+	height: 100px;
+}
+
+.large {
+	width: 250px;
+	height: 250px;
+}
